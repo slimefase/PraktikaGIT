@@ -1,0 +1,29 @@
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\bin\Debug\net8.0\Praktika.exe
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\bin\Debug\net8.0\Praktika.deps.json
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\bin\Debug\net8.0\Praktika.runtimeconfig.json
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\bin\Debug\net8.0\Praktika.dll
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\bin\Debug\net8.0\Praktika.pdb
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\Praktika.AssemblyInfoInputs.cache
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\Praktika.AssemblyInfo.cs
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\Praktika.dll
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\refint\Praktika.dll
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\Praktika.pdb
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\Praktika.genruntimeconfig.cache
+C:\Users\kalit\OneDrive\Рабочий стол\Praktika\obj\Debug\net8.0\ref\Praktika.dll
+C:\Users\Cloudlet\Desktop\PraktikaGIT\bin\Debug\net8.0\Praktika.exe
+C:\Users\Cloudlet\Desktop\PraktikaGIT\bin\Debug\net8.0\Praktika.deps.json
+C:\Users\Cloudlet\Desktop\PraktikaGIT\bin\Debug\net8.0\Praktika.runtimeconfig.json
+C:\Users\Cloudlet\Desktop\PraktikaGIT\bin\Debug\net8.0\Praktika.dll
+C:\Users\Cloudlet\Desktop\PraktikaGIT\bin\Debug\net8.0\Praktika.pdb
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.AssemblyInfoInputs.cache
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.AssemblyInfo.cs
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.sourcelink.json
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.dll
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\refint\Praktika.dll
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.pdb
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\Praktika.genruntimeconfig.cache
+C:\Users\Cloudlet\Desktop\PraktikaGIT\obj\Debug\net8.0\ref\Praktika.dll
